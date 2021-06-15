@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ricky and Mory</string>
+    <string name="retry_text">Tentar novamente</string>
+    <string name="title_activity_characters">Characters</string>
+</resources>
